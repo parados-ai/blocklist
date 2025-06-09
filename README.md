@@ -1,6 +1,6 @@
 <div align="center">
 
-# datacenter-ips
+# blocklist
 
 **Stop fake clicks. Block over 150 million bot IPs with one free list.**
 
