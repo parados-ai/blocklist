@@ -5,12 +5,7 @@
 **Stop fake clicks. Block over 150 million bot IPs with one free list.**
 
 ---
-
-<sub><sup>by Parados</sup></sub>
-
 </div>
-
----
 
 ## ✅ Why use this list?
 - **Instantly reduce fake clicks**: Block common bot IPs to protect your ad spend.
